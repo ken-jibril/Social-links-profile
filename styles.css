@@ -68,7 +68,8 @@ p {
 }
 .links a:hover {
     background-color: #aee40c;
-    border-bottom: 3px solid;
+    border-bottom: 3px solid white;
     transition: all .3s linear;
     border-radius: 8px;
+    color: #1F1F1F;
 }
